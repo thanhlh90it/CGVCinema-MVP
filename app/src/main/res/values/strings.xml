@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo CGV Cinema</string>
+    <string name="lb_movies_list_title">List of Movies</string>
+    <string name="description">Description: </string>
+    <string name="movie_actress">Movie Actress:</string>
+    <string name="book_now">Book Now</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="not_found">No Data!</string>
+    <string name="loading">Loading...</string>
+    <string name="minutes">minutes</string>
+</resources>
